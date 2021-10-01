@@ -1,0 +1,82 @@
+body {
+	margin: 0 auto;
+	width: 800px;
+	padding: 0;
+	background: #ffffff;
+	font-family: Helvetica, sans-serif;
+	font-size: 62.5%;
+	color: rgb(0, 0, 0);
+}
+
+#header {
+    background: url(../images/封面.png) center;
+    background-size: 80%;
+    height: 150px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+#black {
+    color: rgb(255, 255, 255);
+	background-color: rgb(92, 92, 92);
+	height: 25px;
+	width: 250px;
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	text-align: center;
+	padding: 10px 0 0 0;
+	font-size:15px;
+}
+#new{
+    width: 250px;
+    font-size:8px;
+}
+#left p a{
+    width: 250px;
+}
+#left{
+    position: relative;
+    top:10px;
+    width: 250px;
+}
+#top{
+    width: 250px;
+}
+#right {
+    position: relative;
+    bottom: 550px;
+    float: right;
+    width: 500px;
+}
+#home {
+    color: rgb(255, 255, 255);
+    background-color: rgb(92, 92, 92);
+    height: 25px;
+    width: 100%;
+    padding: 0;
+    margin: 0 0 15px 0;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px 0 25px 0;
+}
+#home a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 0 70px 0 0;
+}
+footer{
+    position: relative;
+    bottom: 500px;
+    float: left;
+	background-color: rgb(92, 92, 92);
+	height: 25px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	font-size: 15px;
+	text-align: center;
+	padding: 10px 0 0 0;
+	font-size:15px;
+	color: rgb(255, 255, 255);
+}
